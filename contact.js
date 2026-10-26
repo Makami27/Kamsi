@@ -99,7 +99,7 @@ btn1.addEventListener("click", () => {
   }, 100);
   setTimeout(() => {
     reply.textContent =
-      "Makami is a software Engineering Student focoused on building useful web apps from business websites to interaction websites";
+      "Kamsi is a Software Engineering Student focoused on building useful web apps from business websites to interaction websites";
   }, 1000);
 });
 
@@ -117,7 +117,7 @@ btn2.addEventListener("click", () => {
   }, 100);
   setTimeout(() => {
     reply2.textContent =
-      "Makami builds fast and reliable websites that dont break when traffic spikes.";
+      "Kamsi builds fast and reliable websites that dont break when traffic spikes.";
   }, 1000);
 });
 
